@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there hopefully we can currently understand  togrether
 
 <!--
 **MipanZuu/MipanZuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
