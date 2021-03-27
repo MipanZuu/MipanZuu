@@ -1,6 +1,4 @@
 ### Hi there hopefully we can currently understand  together
-![Image of Instagram]
-(https://octodex.github.com/images/yaktocat.png)
 
 <!--
 **MipanZuu/MipanZuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
