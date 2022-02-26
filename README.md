@@ -27,8 +27,7 @@
 
 ## Languages that I used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MipanZuu&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MipanZuu&hide_border=true&hide=html,css&theme=tokyonight" />
 ## Music 🎶 
 
 ### Spotify Playing 🎧
