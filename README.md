@@ -23,7 +23,7 @@
 
 ## My Stats
 
-![Anurag's github stats](https://github-readme-stats.MipanZuu.vercel.app//api?username=MipanZuu&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.mipanzuu.vercel.app//api?username=MipanZuu&count_private=true&show_icons=true&theme=tokyonight)
 
 ## Languages that I used
 
