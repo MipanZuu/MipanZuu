@@ -1,4 +1,5 @@
 ### Hi, I'm Denta Bramasta!
+
 <p align='center'>
   
   <a href="linkedin.com/in/denta-bramasta-50229a204">
@@ -9,6 +10,7 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
 - 🔭 I’m currently a student at Institut Teknologi Sepuluh Nopember.
 - 🌱 I’m currently learning C++, C, React Js, shell, Swift.
 - 🙋‍♂️ Any question?, Hit me up!!.
