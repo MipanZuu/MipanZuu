@@ -20,3 +20,11 @@
 - 🌱 I’m currently learning C++, C, React Js, shell, Swift.
 - 🙋‍♂️ Any question?, Hit me up!!.
 - ⚡ Fun fact: I like to eat and sleep 😴.
+
+## My Stats
+
+![Anurag's github stats](https://github-readme-stats.adryinkcartridge.vercel.app//api?username=ADryInkCartridge&count_private=true&show_icons=true&theme=dracula)
+
+## Languages that I used
+
+[![Top Langs](https://github-readme-stats.adryinkcartridge.vercel.app/api/top-langs/?username=ADryInkCartridge&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
