@@ -27,4 +27,4 @@
 
 ## Languages that I used
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MipanZuu&hide_border=false&hide=html,css&theme=tokyonight" />
+![Anurag's github stats] (https://github-readme-stats.vercel.app/api/top-langs/?username=MipanZuu&hide_border=false&hide=html,css&theme=tokyonight)
