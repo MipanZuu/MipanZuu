@@ -23,8 +23,8 @@
 
 ## My Stats
 
-![Anurag's github stats](https://github-readme-stats.adryinkcartridge.vercel.app//api?username=ADryInkCartridge&count_private=true&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.MipanZuu.vercel.app//api?username=MipanZuu&count_private=true&show_icons=true&theme=tokyonight)
 
 ## Languages that I used
 
-[![Top Langs](https://github-readme-stats.adryinkcartridge.vercel.app/api/top-langs/?username=ADryInkCartridge&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
+[![Top Langs](https://github-readme-stats.MipanZuu.vercel.app/api/top-langs/?username=MipanZuu&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
