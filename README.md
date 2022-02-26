@@ -28,3 +28,9 @@
 ## Languages that I used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MipanZuu&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
+
+## Music 🎶 
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/DentaBramasta)
