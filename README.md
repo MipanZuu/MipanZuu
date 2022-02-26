@@ -27,4 +27,4 @@
 
 ## Languages that I used
 
-[![Top Langs](https://github-readme-stats.MipanZuu.vercel.app/api/top-langs/?username=MipanZuu&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MipanZuu&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
