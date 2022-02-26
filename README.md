@@ -28,8 +28,3 @@
 ## Languages that I used
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MipanZuu&hide_border=false&hide=html,css&theme=tokyonight" />
-## Music 🎶 
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.MipanZuu.vercel.app/api/spotify)](https://open.spotify.com/user/DentaBramasta)
