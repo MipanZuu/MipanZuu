@@ -17,7 +17,7 @@
 </p>
 
 - 🔭 I’m currently a student at Institut Teknologi Sepuluh Nopember.
-- 🌱 I’m currently learning C++, C, React Js, shell, Swift.
+- 🌱 I do Fullstack Web Developer
 - 🙋‍♂️ Any question?, Hit me up!!.
 - ⚡ Fun fact: I like to eat and sleep 😴.
 
