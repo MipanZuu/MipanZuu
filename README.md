@@ -1,6 +1,6 @@
 # Welcome to Denta Bramasta Github!
 ## 💫 About Me:
-🔭 I’m currently a student at Institut Teknologi Sepuluh Nopember.<br>🌱 I do Fullstack Web Developer<br>🙋‍♂️ Any question?, Hit me up!!.<br>⚡ Fun fact: I like to eat and sleep 😴.<br>
+🔭 I’m currently a student at Institut Teknologi Sepuluh Nopember, Surabaya. and Fontys University, Eindhoven<br>🌱 I do Fullstack Web Developer<br>🙋‍♂️ Any question?, Hit me up!!.<br>⚡ Fun fact: I like to eat and sleep 😴.<br>
 
 
 ## 🌐 Socials:
